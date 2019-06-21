@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">POC</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="imageme">
+        <item>@drawable/ic_file</item>
+    </string-array>
+</resources>
