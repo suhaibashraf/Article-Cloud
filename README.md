@@ -9,3 +9,10 @@ In today’s digital world, the security of our personal and sensitive data is m
 * __Cloud Integration:__ Securely upload and store encrypted files on your preferred cloud storage service.
 * __User-Friendly Interface:__ A simple and intuitive design makes file encryption and management accessible to everyone.
 * __Cross-Platform Compatibility:__ Works seamlessly with major cloud storage providers, ensuring flexibility and convenience.
+
+### Technologies Used
+* Android SDK
+* Java
+* encryption Algorithms
+* cloud APIs
+
